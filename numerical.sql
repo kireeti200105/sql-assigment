@@ -60,6 +60,7 @@
 -- select trunc(23.43) from dual;
 
 -- Calculate compound interest.
-SELECT Unit_Price,
-       CAST(Unit_Price AS INT) AS Integer_Value
-FROM Orders;
+-- SELECT Unit_Price,
+--        CAST(Unit_Price AS INT) AS Integer_Value
+
+-- FROM Orders;
